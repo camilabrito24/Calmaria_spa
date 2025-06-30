@@ -41,6 +41,12 @@
     align-self: end;
 }
 
+.container__primeiro--texto-botao:hover{
+    background-color: var(--lilas-escuro);
+    transition: .5s;
+    cursor: pointer;
+}
+
 @media screen and (min-width: 768px) {
     /* Tablet */
 
